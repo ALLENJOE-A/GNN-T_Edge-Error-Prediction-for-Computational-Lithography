@@ -902,7 +902,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 
 **Allen Joe A**
 
-Electronics & VLSI Engineering
+Electronics & VLSI Engineering(SENSE,VIT CHENNAI)
 
 GitHub: [@ALLENJOE-A](https://github.com/ALLENJOE-A)
 
